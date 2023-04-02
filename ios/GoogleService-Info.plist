@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>1063346659341-qm56n73vqinv00l84oncglmo4296jkf2.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.1063346659341-qm56n73vqinv00l84oncglmo4296jkf2</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>1063346659341-tm9tl8lbh6m6pkv14vke4i5flt8j1dnp.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDLvX_kC-ETkA4jOykpDCL-nJzsynxT_ls</string>
+	<key>GCM_SENDER_ID</key>
+	<string>1063346659341</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.brainyapps.gid</string>
+	<key>PROJECT_ID</key>
+	<string>brainygetitdone</string>
+	<key>STORAGE_BUCKET</key>
+	<string>brainygetitdone.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:1063346659341:ios:79fc0c45d7b5b44fc3f544</string>
+</dict>
+</plist>

@@ -1,0 +1,45 @@
+const colors = {
+    white: '#fff',
+    black: '#000',
+    white_light: '#FFFFFF',
+    white_dark: '#f1f1f1',
+    dropdownBg: '#DCDCDC',
+    white_most_dark: '#f1f1f1',
+    white_smoke: '#DBDBDB',
+    grey: '#C0C0C0',
+    grey1: '#616161',
+    lightgrey: "#F4F4F4",
+    dark_grey: '#616161',
+    greyTabs: "#E1DEE5",
+    purple: '#432370',
+    track_color: '#432370',
+    unselected_track_color: '#bdbdbf',
+    dark_purple: '#0c001e',
+    gold: '#ffa800',
+    yellow: '#ffe347',
+    blue: '#1a72d6',
+    pink: '#de0044',
+    transparent: '#FF004E',
+    login_text_color:'#545454',
+    input_text_color:'#545454',
+    underline_text_color:'#003ecb',
+    navigation_text_color:'#030031',
+    alert_text_color:'#252525',
+    number_color:'#383838',
+    ticket_detail_right_text:'#3f3f3f',
+    comment_time:'#919191',
+    dropDown_bg:'#306DAC',
+    version_color:'#545454',
+    logout_button_color: '#ff0000',
+    app_color:'#fe484c',
+    green_color:'#27AE60',
+    // your colors
+
+    red_color:'#FF494D',
+
+    Green_color:'#27AE60',
+
+    placeholder_text_color: '#999999',
+};
+
+export default colors;

@@ -1,0 +1,62 @@
+{
+  "project_info": {
+    "project_number": "1063346659341",
+    "project_id": "brainygetitdone",
+    "storage_bucket": "brainygetitdone.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1063346659341:android:32a6cc5f0262c931c3f544",
+        "android_client_info": {
+          "package_name": "com.brainyapps.gid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1063346659341-1lvt9qi073kklh6omcp22ji1p98723mm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.brainyapps.gid",
+            "certificate_hash": "092bb9d601ef6c4e5ba95ee1fc4f195e31ac1503"
+          }
+        },
+        {
+          "client_id": "1063346659341-tm9tl8lbh6m6pkv14vke4i5flt8j1dnp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.brainyapps.gid",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "1063346659341-di524njfaphgmgarrto517mql0m97ujl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6YJFOmX_f4fZSsx3NcmlmDZKlqLgle3E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1063346659341-di524njfaphgmgarrto517mql0m97ujl.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1063346659341-qm56n73vqinv00l84oncglmo4296jkf2.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.brainyapps.gid"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
